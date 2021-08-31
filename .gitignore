@@ -1,0 +1,5 @@
+node_modules/
+slnx.sqlite
+*.suo
+VSWorkspaceState.json
+applicationhost.config
